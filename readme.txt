@@ -8,3 +8,6 @@ this is feature2.
 >>>>>>> feature2
 
 conflict fixed
+
+
+policy to manage branch
