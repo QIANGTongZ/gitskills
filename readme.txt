@@ -13,3 +13,5 @@ conflict fixed
 policy to manage branch
 
 bug102 has been fixed
+
+edit in GitHub
