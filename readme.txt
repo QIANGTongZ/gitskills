@@ -12,4 +12,4 @@ conflict fixed
 
 policy to manage branch
 
-bug has been fixed
+bug102 has been fixed
