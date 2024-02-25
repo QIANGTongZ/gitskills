@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 this is a conflict file in develop.
+=======
+this is A conflict fil in develop.
+>>>>>>> 232d9c4eb0289a9ef370f7defefa41d2ee315d6f
+
+
+
+sloved
